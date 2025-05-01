@@ -26,39 +26,34 @@ Fleet Size: 16,930 strength units
 
 Primary Doctrine: **Core R&D Nexus with Defensive Fleet Focus**
 
-- **Research Operations:** Ongoing (Labs Lvl 22)
-- **Fleet Output:** Functional with Shipyards Lvl 16
-- **Security Grid:** Laser Turrets Lvl 5, Barracks Lvl 5
-- **Energy Mix:** Solar + Gas + Fusion/AM
-- **Economic Layer:** Developing (Eco Centers Lvl 4)
-
-> Blackthrone does not sleep. It simulates. It watches. It builds.
-
 > [Read Chapter I – Blackthrone](bases/Blackthrone.md)
 
 ---
 
 ## 📚 Chapters of Expansion
 - **[Chapter I: Blackthrone](bases/Blackthrone.md)** – Birth of the Throneworld  
-- *(Upcoming)* Chapter II: Signal-Forge Cindervault  
-- *(Upcoming)* Chapter III: Dreadwake Expansion
-
-### 🛰️ Base Log (Established Order)
-- **[Blackthrone](bases/Blackthrone.md)** – Throneworld (Earthly Planet)
-- **[Fluxhold](bases/Fluxhold.md)** – Crystalline Moon (Intelligence Relay / Storage Core)
-- **[Glitchyard](bases/Glitchyard.md)** – Asteroid Base (Logistics + Forward Scramble Point)
-- **[Dreadcore](bases/Dreadcore.md)** – Asteroid Bastion (Defense Matrix / Interceptor Core)
-- **[Cindervault](bases/Cindervault.md)** – Cratered Planet (Industrial Signal Forge)
+- **[Chapter II: Fluxhold](bases/Fluxhold.md)** – The Moon That Listens  
+- **[Chapter III: Glitchyard](bases/Glitchyard.md)** – Reflex Protocol  
+- **[Chapter IV: Dreadcore](bases/Dreadcore.md)** – Hardened Shell  
+- **[Chapter V: Cindervault](bases/Cindervault.md)** – Industrial Resurrection
 
 ---
 
 ## 🧠 Dominion Archives
-*Ongoing documentation of the Umbral Dominion's rise:*
+Ongoing documentation of the Umbral Dominion’s rise and recursive doctrine:
 
-- **[Fleet Doctrine](strategy/Fleet-Doctrine.md)** – Patterns of deployment, defense, and punishment
-- **[Strategos Umbratheon](lore/Strategos.md)** – A profile of recursion and command
-- **[Base Infrastructure Logic](strategy/Base-Protocols.md)** – Efficient construction patterns for planetary cores
-- **[Economic Constructs](strategy/Economy.md)** – Growth flows, income stacks, and AI profit nodes
+### 📖 Strategic Files
+- [Fleet Manifest](strategy/Fleet-Manifest.md)
+- [Fleet Doctrine](strategy/Fleet-Doctrine.md)
+- [Base Infrastructure Logic](strategy/Base-Protocols.md)
+- [Economic Constructs](strategy/Economy.md)
+- [Research Strategy](strategy/Research-Strategy.md)
+- [Expansion Logistics](strategy/Expansion-Logistics.md)
+- [Scouting Protocols](strategy/Scouting-Protocols.md)
+- [Signal Interference Behavior](strategy/Signal-Interference.md)
+- [Threat Assessment](strategy/Threat-Assessment.md)
+- [Diplomatic Intelligence](strategy/Diplomacy-Intel.md)
+- [AI Behavioral Core](strategy/AI-Behavioral-Core.md)
 
 ---
 
