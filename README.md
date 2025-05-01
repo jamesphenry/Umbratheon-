@@ -1,4 +1,4 @@
-![Umbratheon Banner](assets/banner.png)
+![Umbratheon Banner](Assets/banner.png)
 
 > *“The mind is immortal. The flesh is inefficient.”*  
 > — Strategos Umbratheon
