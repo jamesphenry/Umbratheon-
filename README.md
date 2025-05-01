@@ -55,10 +55,10 @@ Primary Doctrine: **Core R&D Nexus with Defensive Fleet Focus**
 ## 🧠 Dominion Archives
 *Ongoing documentation of the Umbral Dominion's rise:*
 
-- [Fleet Doctrine](strategy/Fleet-Doctrine.md)
-- [Strategos Umbratheon](lore/Strategos.md)
-- [Base Infrastructure Logic](strategy/Base-Protocols.md)
-- [Economic Constructs](strategy/Economy.md)
+- **[Fleet Doctrine](strategy/Fleet-Doctrine.md)** – Patterns of deployment, defense, and punishment
+- **[Strategos Umbratheon](lore/Strategos.md)** – A profile of recursion and command
+- **[Base Infrastructure Logic](strategy/Base-Protocols.md)** – Efficient construction patterns for planetary cores
+- **[Economic Constructs](strategy/Economy.md)** – Growth flows, income stacks, and AI profit nodes
 
 ---
 
